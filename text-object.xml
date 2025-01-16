@@ -1,0 +1,8 @@
+<CiscoIPPhoneText appId="A">
+  <Text>Test-AppA</Text>
+  <SoftKeyItem>
+    <Name>Exit</Name>
+    <URL>SoftKey:Exit</URL>
+    <Position>3</Position>
+  </SoftKeyItem>
+</CiscoIPPhoneText>
