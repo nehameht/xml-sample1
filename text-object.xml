@@ -1,7 +1,9 @@
-<CiscoIPPhoneText appId="A">
-  <Text>Test-AppA</Text>
+<CiscoIPPhoneText>
+  <Text>Welcome to the world of innovation.
+	You are looking at world's best phone ever!         
+  </Text>
   <SoftKeyItem>
-    <Name>Exit</Name>
+    <Name>Agree!</Name>
     <URL>SoftKey:Exit</URL>
     <Position>3</Position>
   </SoftKeyItem>
